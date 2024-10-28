@@ -1,0 +1,11 @@
+ Explique por que cada regra foi aplicada no código dado
+R:
+
+Regra 1: Aplica cor vermelha a todos os itens de lista <li>.
+Regra 2: Aplica cor verde a todos os elementos com a classe .churras.
+Regra 3: Aplica cor cinza aos elementos com a classe .fruta.
+Regra 4: Aplica cor preta ao segundo item <li> consecutivo, quando ele tem a classe .churras.
+Regra 5: Aplica cor magenta a elementos .churras que são arrastáveis (draggable="true").
+Regra 6: Aplica cor azul aos elementos com os IDs lip1, lip2, e lip3.
+Regra 7: Aplica cor laranja a um elemento com ID lip3 e classe fruta.
+Regra 8: Aplica cor roxa a um elemento <li> que é um filho direto de <ol>, tem a classe churras e ID lip5.

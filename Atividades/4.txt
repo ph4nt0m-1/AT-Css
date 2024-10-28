@@ -1,0 +1,3 @@
+Como podemos incluir CSS em documentos HTML?
+R: Existem 3 maneirasl, Inline, interno e externo
+sendo o inline usando o atributo style diretamente nos elementos html, interno sendo dentro do cabeçalho do documento e externo usando um arquivo css separado o vinculando com a tag link.
