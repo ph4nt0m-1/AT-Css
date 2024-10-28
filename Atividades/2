@@ -1,0 +1,4 @@
+ O que são seletores CSS? Quais são os tipos existentes?
+
+ R: Seletores CSS são padrões usados para selecionar e aplicar estilos a elementos específicos de uma página HTML.
+ tipos: Seletor de elemento/tag, de classe, de ID, de atributo, Seletor universal e Seletores combinadores (de descendente, filho, adjacente, etc.).

@@ -1,0 +1,8 @@
+O que é uma regra CSS? Explique o conceito de regra CSS e forneça um exemplo prático que inclua um seletor, uma propriedade e um valor.
+
+R: é uma definição de um grupo de estilos que deve ser aplicado a um ou mais elementos de uma página web, é composta por um seletor e um bloco de declarações. O seletor é usado para determinar a quais elementos HTML a regra será aplicada, enquanto o bloco de declarações contém as propriedades CSS e seus respectivos valores, que serão aplicados a esses elementos.
+EX:
+p {
+    color: blue;
+    font-size: 16px;
+}
